@@ -1,4 +1,14 @@
-## Buenas👋
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1><b>Hi there, I'm </b><a href="https://github.com/jtsidk">Juan Javier</a>👋</h1>
+
+<br>
+<h2>About me</h2>
+
+I'm a junior developer with a Higher Vocational degree in Multiplatform Application Development and internship experience in both backend and frontend enviroments. I work with languages such as Java and JavaScript, with knowledge of relational databases (SQL), data handling and consumption in JSON format, and version control using Git. I have experience with web technologies such as HTML, CSS and JSP, as well Java-related frameworks, including Spring Boot and Spring Security for implementing authentication and API endpoint security.
+
+I'm motivated to acquire new knowledge, solve problems, and adapt to different environments in order to grow and improve as a professsional delivering efficient and scalable solutions.
+
+<br>
 
 <!--
 **jtsidk/jtsidk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
