@@ -87,7 +87,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jtsidk&theme=nightowl&hide_border=false" alt="jtsidk streak" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jtsidk&theme=nightowl&hide_border=false&langs_count=10"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jtsidk&theme=nightowl&hide_border=false&langs_count=10&cache_seconds=1800"/>
 </td>
 </tr>
 </table>
